@@ -1,3 +1,5 @@
+![image](https://github.com/wasleyfps/guessing-game/assets/88601440/f6fa2e62-c8f7-4ab8-bc91-9a843dcdd4bf)
+
 # Jogo da Adivinhação
 
 ![preview](./.github/preview.gif)
